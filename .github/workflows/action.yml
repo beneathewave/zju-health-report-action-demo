@@ -13,8 +13,8 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - username: ZJU_USERNAME
-            password: ZJU_PASSWORD
+          #- username: ZJU_USERNAME
+          #  password: ZJU_PASSWORD
           - username: ZHZ_USERNAME
             password: ZHZ_PASSWORD
           - username: WWC_USERNAME
